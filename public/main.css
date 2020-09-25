@@ -1,0 +1,35 @@
+.object-fit-cover {
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.form-login-block {
+    min-height: 100vh;
+}
+
+.form-login-block .form-login {
+    width: 320px;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #eee;
+}
+
+.form-login-block .form-login-title {
+    font-size: 24px;
+}
+
+.form-login-block .form-login-enter {
+    width: 100%;
+}
+
+.posts-list .post .post-control {
+    width: 260px;
+}
+
+.posts-list .post .post-image {
+    width: 260px;
+    height: 150px;
+    padding: 0;
+    border-radius: 4px;
+    object-fit: cover;
+}
